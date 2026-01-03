@@ -1,0 +1,222 @@
+# Basit Medya Oynatıcı - NVDA Add-on Localization File
+# Copyright (C) 2026
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Media Player 1.0\n"
+"POT-Creation-Date: 2026-01-03 17:15+0300\n"
+"PO-Revision-Date: 2026-01-03 17:15+0300\n"
+"Last-Translator: Gemini\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Turkish\n"
+
+#: __init__.py:23
+msgid "Simple Media Player library loading error: {e}"
+msgstr "Basit Medya Oynatıcı kütüphane yükleme hatası: {e}"
+
+#: __init__.py:29
+msgid "Advanced Settings"
+msgstr "Gelişmiş Ayarlar"
+
+#: __init__.py:35
+msgid "Album Cover Display Settings"
+msgstr "Albüm Kapağı Gösterimi Ayarları"
+
+#: __init__.py:39
+msgid "Show album cover art"
+msgstr "Albüm kapak resmini göster"
+
+#: __init__.py:44
+msgid "Show music album cover if available"
+msgstr "Varsa müzik albüm kapağını göster"
+
+#: __init__.py:44
+msgid "Always show default media player icon"
+msgstr "Her zaman varsayılan medya oynatıcı simgesini göster"
+
+#: __init__.py:50
+msgid "OK"
+msgstr "Tamam"
+
+#: __init__.py:51
+msgid "Cancel"
+msgstr "İptal"
+
+#: __init__.py:67
+msgid "Simple Media Player"
+msgstr "Basit Medya Oynatıcı"
+
+#: __init__.py:100
+msgid "Simple Media Player Opened"
+msgstr "Basit Medya Oynatıcı Açıldı"
+
+#: __init__.py:109
+msgid "Please select a song"
+msgstr "Lütfen bir şarkı seçin"
+
+#: __init__.py:117
+msgid "Title - Artist - Album"
+msgstr "Başlık - Sanatçı - Albüm"
+
+#: __init__.py:117
+msgid "Album - Title - Artist"
+msgstr "Albüm - Başlık - Sanatçı"
+
+#: __init__.py:117
+msgid "Artist - Title - Album"
+msgstr "Sanatçı - Başlık - Albüm"
+
+#: __init__.py:130
+msgid "Repeat: Off (T)"
+msgstr "Tekrar: Kapalı (T)"
+
+#: __init__.py:130
+msgid "Repeat: On (T)"
+msgstr "Tekrar: Açık (T)"
+
+#: __init__.py:132
+msgid "Shuffle: Off (R)"
+msgstr "Karıştır: Kapalı (R)"
+
+#: __init__.py:132
+msgid "Shuffle: On (R)"
+msgstr "Karıştır: Açık (R)"
+
+#: __init__.py:135
+msgid "Previous (P)"
+msgstr "Önceki (P)"
+
+#: __init__.py:135
+msgid "Play/Pause (K)"
+msgstr "Oynat/Duraklat (K)"
+
+#: __init__.py:135
+msgid "Next (S)"
+msgstr "Sonraki (S)"
+
+#: __init__.py:136
+msgid "Rewind (G)"
+msgstr "Geri Sar (G)"
+
+#: __init__.py:136
+msgid "Fast Forward (I)"
+msgstr "İleri Sar (I)"
+
+#: __init__.py:146
+msgid "Volume Down"
+msgstr "Sesi Azalt"
+
+#: __init__.py:146
+msgid "Volume Up"
+msgstr "Ses Arttır"
+
+#: __init__.py:146
+msgid "Restart (B)"
+msgstr "Başa Al (B)"
+
+#: __init__.py:147
+msgid "Select Folder (Ctrl+O)"
+msgstr "Klasör Seç (Ctrl+O)"
+
+#: __init__.py:147
+msgid "Default Folder (D)"
+msgstr "Varsayılan Klasör (D)"
+
+#: __init__.py:148
+msgid "Copy Music (C)"
+msgstr "Müzik Kopyala (C)"
+
+#: __init__.py:148
+msgid "Advanced Settings (A)"
+msgstr "Gelişmiş Ayarlar (A)"
+
+#: __init__.py:156
+msgid "Ask before exiting"
+msgstr "Çıkarken sor"
+
+#: __init__.py:158
+msgid "Exit"
+msgstr "Çıkış"
+
+#: __init__.py:165
+msgid "No media to play"
+msgstr "Oynatılacak medya yok"
+
+#: __init__.py:165
+msgid "Warning"
+msgstr "Uyarı"
+
+#: __init__.py:171
+msgid "Repeat On"
+msgstr "Tekrar Açık"
+
+#: __init__.py:171
+msgid "Repeat Off"
+msgstr "Tekrar Kapalı"
+
+#: __init__.py:181
+msgid "Shuffle On"
+msgstr "Karıştırma Açık"
+
+#: __init__.py:181
+msgid "Shuffle Off"
+msgstr "Karıştırma Kapalı"
+
+#: __init__.py:215
+msgid "Select music folder"
+msgstr "Müzik klasörü seçin"
+
+#: __init__.py:219
+msgid "Folder updated"
+msgstr "Klasör güncellendi"
+
+#: __init__.py:226
+msgid "Returned to default folder"
+msgstr "Varsayılan klasöre dönüldü"
+
+#: __init__.py:229
+msgid "Select music"
+msgstr "Müzik seçin"
+
+#: __init__.py:274
+msgid "Unknown Artist"
+msgstr "Bilinmeyen Sanatçı"
+
+#: __init__.py:275
+msgid "Unknown Album"
+msgstr "Bilinmeyen Albüm"
+
+#: __init__.py:283
+msgid "Playing: {title}"
+msgstr "Çalıyor: {title}"
+
+#: __init__.py:298
+msgid "Do you want to exit?"
+msgstr "Çıkmak istiyor musunuz?"
+
+#: __init__.py:298
+msgid "Confirm"
+msgstr "Onay"
+
+#: __init__.py:318
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+#: __init__.py:322
+msgid "Resumed"
+msgstr "Devam ediyor"
+
+#: __init__.py:343
+msgid "Volume {val}"
+msgstr "Ses {val}"
+
+#: __init__.py:348
+msgid "Restarted"
+msgstr "Başa alındı"
+
+#: __init__.py:365
+msgid "Opens Simple Media Player."
+msgstr "Basit Medya Oynatıcıyı açar."
